@@ -1,0 +1,49 @@
+body {
+	/*background:#fe0000;*/
+	background: rgb(49, 49, 49);
+	color: white;
+}
+a {
+	color:white;
+}
+#header-bottom-left {
+	background: #fe0000;
+}
+#header-bottom-right a {color:black;}
+.side,.spacer {
+	padding: 2px;
+	margin: 10px;
+	border-radius: 10px;
+	background: white;
+}
+.titlebox .hover.redditname a {
+	color: black;
+}
+.choice li a {
+	background-color: red;
+}
+
+.users-online {
+	color: black;
+}
+.thing {
+	padding: 2px;
+	background: white;
+	border-radius: 10px;
+	width: 73%;
+}
+.spacer a {
+	color: black;
+}
+/*#siteTable {
+	background: white;
+	border-radius: 10px;
+}*/
+/*.sitetable.linklisting {
+	background: white;
+}*/
+.tabmenu button {
+color:black;
+}
+#header .tabmenu a {background-color:black;}
+.create-reddit {color:black;}
